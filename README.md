@@ -1,6 +1,6 @@
 # 280_Back_Chain
 
-For this project, the goal was to create a backwards-chaining expert system, that took in a letter, and proved it based off of the given rules and facts handed to it.
+For this project, the goal was to create a backwards-chaining expert system in lisp, that took in a letter, and proved it based off of the given rules and facts handed to it.
 For example, if handed: 
 
 (setf facts '(A B C))
